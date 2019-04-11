@@ -1,0 +1,5 @@
+D:\Pino\tp_laboratorio_2VIEJO\TP1\Entidades\Entidades\bin\Debug\Entidades.dll
+D:\Pino\tp_laboratorio_2VIEJO\TP1\Entidades\Entidades\bin\Debug\Entidades.pdb
+D:\Pino\tp_laboratorio_2VIEJO\TP1\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Pino\tp_laboratorio_2VIEJO\TP1\Entidades\Entidades\obj\Debug\Entidades.dll
+D:\Pino\tp_laboratorio_2VIEJO\TP1\Entidades\Entidades\obj\Debug\Entidades.pdb
