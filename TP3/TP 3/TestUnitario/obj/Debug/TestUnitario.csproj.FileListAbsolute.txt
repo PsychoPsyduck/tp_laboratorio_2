@@ -1,0 +1,25 @@
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\TestUnitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\TestUnitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\TestUnitario\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\TestUnitario\bin\Debug\TestUnitario.dll
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\TestUnitario\bin\Debug\TestUnitario.pdb
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\TestUnitario\bin\Debug\Archivos.dll
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\TestUnitario\bin\Debug\Clases abstractas.dll
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\TestUnitario\bin\Debug\Clases Instanciables.dll
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\TestUnitario\bin\Debug\Excepciones.dll
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\TestUnitario\bin\Debug\Archivos.pdb
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\TestUnitario\bin\Debug\Clases abstractas.pdb
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\TestUnitario\bin\Debug\Clases Instanciables.pdb
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\TestUnitario\bin\Debug\Excepciones.pdb
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\TestUnitario\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\TestUnitario\obj\Debug\TestUnitario.csprojAssemblyReference.cache
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\TestUnitario\obj\Debug\TestUnitario.csproj.CoreCompileInputs.cache
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\TestUnitario\obj\Debug\TestUnitario.csproj.CopyComplete
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\TestUnitario\obj\Debug\TestUnitario.dll
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\TestUnitario\obj\Debug\TestUnitario.pdb

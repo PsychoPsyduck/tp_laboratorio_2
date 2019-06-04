@@ -1,0 +1,18 @@
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\Clases abstractas\bin\Debug\Clases abstractas.dll
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\Clases abstractas\bin\Debug\Clases abstractas.pdb
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\Clases abstractas\bin\Debug\Excepciones.dll
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\Clases abstractas\bin\Debug\Excepciones.pdb
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\Clases abstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\Clases abstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\Clases abstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\Clases abstractas\obj\Debug\Clases abstractas.dll
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\Clases abstractas\obj\Debug\Clases abstractas.pdb
+D:\Pino\tp_laboratorio_2\TP3\TP 3\Clases abstractas\bin\Debug\Clases abstractas.dll
+D:\Pino\tp_laboratorio_2\TP3\TP 3\Clases abstractas\bin\Debug\Clases abstractas.pdb
+D:\Pino\tp_laboratorio_2\TP3\TP 3\Clases abstractas\bin\Debug\Excepciones.dll
+D:\Pino\tp_laboratorio_2\TP3\TP 3\Clases abstractas\bin\Debug\Excepciones.pdb
+D:\Pino\tp_laboratorio_2\TP3\TP 3\Clases abstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+D:\Pino\tp_laboratorio_2\TP3\TP 3\Clases abstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+D:\Pino\tp_laboratorio_2\TP3\TP 3\Clases abstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+D:\Pino\tp_laboratorio_2\TP3\TP 3\Clases abstractas\obj\Debug\Clases abstractas.dll
+D:\Pino\tp_laboratorio_2\TP3\TP 3\Clases abstractas\obj\Debug\Clases abstractas.pdb

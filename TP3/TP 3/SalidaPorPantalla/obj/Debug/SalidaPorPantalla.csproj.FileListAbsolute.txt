@@ -1,0 +1,32 @@
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\SalidaPorPantalla\bin\Debug\SalidaPorPantalla.exe.config
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\SalidaPorPantalla\bin\Debug\SalidaPorPantalla.exe
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\SalidaPorPantalla\bin\Debug\SalidaPorPantalla.pdb
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.csprojAssemblyReference.cache
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.csproj.CoreCompileInputs.cache
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.exe
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.pdb
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\SalidaPorPantalla\bin\Debug\Archivos.dll
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\SalidaPorPantalla\bin\Debug\Clases abstractas.dll
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\SalidaPorPantalla\bin\Debug\Clases Instanciables.dll
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\SalidaPorPantalla\bin\Debug\Excepciones.dll
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\SalidaPorPantalla\bin\Debug\Archivos.pdb
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\SalidaPorPantalla\bin\Debug\Clases abstractas.pdb
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\SalidaPorPantalla\bin\Debug\Clases Instanciables.pdb
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\SalidaPorPantalla\bin\Debug\Excepciones.pdb
+E:\2C\TP3\TP 3\Sande.Nicolas.2C.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.csproj.CopyComplete
+D:\Pino\tp_laboratorio_2\TP3\TP 3\SalidaPorPantalla\bin\Debug\SalidaPorPantalla.exe.config
+D:\Pino\tp_laboratorio_2\TP3\TP 3\SalidaPorPantalla\bin\Debug\SalidaPorPantalla.exe
+D:\Pino\tp_laboratorio_2\TP3\TP 3\SalidaPorPantalla\bin\Debug\SalidaPorPantalla.pdb
+D:\Pino\tp_laboratorio_2\TP3\TP 3\SalidaPorPantalla\bin\Debug\Archivos.dll
+D:\Pino\tp_laboratorio_2\TP3\TP 3\SalidaPorPantalla\bin\Debug\Clases abstractas.dll
+D:\Pino\tp_laboratorio_2\TP3\TP 3\SalidaPorPantalla\bin\Debug\Clases Instanciables.dll
+D:\Pino\tp_laboratorio_2\TP3\TP 3\SalidaPorPantalla\bin\Debug\Excepciones.dll
+D:\Pino\tp_laboratorio_2\TP3\TP 3\SalidaPorPantalla\bin\Debug\Archivos.pdb
+D:\Pino\tp_laboratorio_2\TP3\TP 3\SalidaPorPantalla\bin\Debug\Clases abstractas.pdb
+D:\Pino\tp_laboratorio_2\TP3\TP 3\SalidaPorPantalla\bin\Debug\Clases Instanciables.pdb
+D:\Pino\tp_laboratorio_2\TP3\TP 3\SalidaPorPantalla\bin\Debug\Excepciones.pdb
+D:\Pino\tp_laboratorio_2\TP3\TP 3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.csprojAssemblyReference.cache
+D:\Pino\tp_laboratorio_2\TP3\TP 3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.csproj.CoreCompileInputs.cache
+D:\Pino\tp_laboratorio_2\TP3\TP 3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.csproj.CopyComplete
+D:\Pino\tp_laboratorio_2\TP3\TP 3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.exe
+D:\Pino\tp_laboratorio_2\TP3\TP 3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.pdb
