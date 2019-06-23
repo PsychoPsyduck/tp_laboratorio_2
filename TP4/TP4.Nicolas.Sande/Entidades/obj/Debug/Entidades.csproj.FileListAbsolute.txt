@@ -1,0 +1,12 @@
+E:\2C\TP4\TP4.Nicolas.Sande\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\2C\TP4\TP4.Nicolas.Sande\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\2C\TP4\TP4.Nicolas.Sande\Entidades\bin\Debug\Entidades.dll
+E:\2C\TP4\TP4.Nicolas.Sande\Entidades\bin\Debug\Entidades.pdb
+E:\2C\TP4\TP4.Nicolas.Sande\Entidades\obj\Debug\Entidades.dll
+E:\2C\TP4\TP4.Nicolas.Sande\Entidades\obj\Debug\Entidades.pdb
+C:\Users\fvg71\Desktop\tp_laboratorio_2\TP4\TP4.Nicolas.Sande\Entidades\bin\Debug\Entidades.dll
+C:\Users\fvg71\Desktop\tp_laboratorio_2\TP4\TP4.Nicolas.Sande\Entidades\bin\Debug\Entidades.pdb
+C:\Users\fvg71\Desktop\tp_laboratorio_2\TP4\TP4.Nicolas.Sande\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\fvg71\Desktop\tp_laboratorio_2\TP4\TP4.Nicolas.Sande\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\fvg71\Desktop\tp_laboratorio_2\TP4\TP4.Nicolas.Sande\Entidades\obj\Debug\Entidades.dll
+C:\Users\fvg71\Desktop\tp_laboratorio_2\TP4\TP4.Nicolas.Sande\Entidades\obj\Debug\Entidades.pdb
